@@ -61,7 +61,7 @@ const Navbar = () => {
                         },
                     }}
                 >
-                    Sociopedia
+                    Planning Tool v2.1
                 </Typography>
                 {isNonMobileScreens && (
                     <FlexBetween
